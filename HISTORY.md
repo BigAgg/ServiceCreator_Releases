@@ -1,4 +1,11 @@
-# v1.1.0 (Current Release)
+# v1.2.0
+## Features
+
+### Added
+    
+    - Git Updater to pull newest release from git instead of local drive
+
+# v1.1.0
 
 ## Features
 
