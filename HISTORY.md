@@ -1,4 +1,12 @@
+# v1.2.1 (Hotfix)
+
+## Bugfixes
+
+    - Project filtering now removed full names, only displaying the projects identifier number
+        Also fixed the problem with filtering by project and status.
+
 # v1.2.0
+
 ## Features
 
 ### Added
