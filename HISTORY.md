@@ -1,3 +1,9 @@
+# v1.2.2 (Hotfix)
+
+## Bugfixes
+
+    - Programm crashing on Syncing Table contents in checklist. Now the Table is just being copied entirely.
+
 # v1.2.1 (Hotfix)
 
 ## Bugfixes
