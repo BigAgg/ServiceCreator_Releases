@@ -1,3 +1,11 @@
+# v1.2.3 (Hotfix)
+
+## Bugfixes
+
+    - On Checklist Creator it is now possible to change the name of the section correctly
+    - Improved syncing tables so it doesn't just overwrite the list, it updates each element accordingly
+        to recorded timestamps
+
 # v1.2.2 (Hotfix)
 
 ## Bugfixes
