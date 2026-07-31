@@ -5,6 +5,8 @@
 ### Added
     
     - Ability to change Additional info. Remember to confirm your change.
+    - If a new update is available, the update information is now stored on local file
+    - If executing silent update, the local update information file is now opened
 
 ## Changes
 
