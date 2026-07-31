@@ -1,5 +1,17 @@
 # v1.2.3 (Hotfix)
 
+## Features
+
+### Added
+    
+    - Ability to change Additional info. Remember to confirm your change.
+
+## Changes
+
+    - When finishing a service, the record is now being copied to the Readers main folder
+    - Technician and finish date is no longer printed on pre record generation
+    - Configuration window is now disabled by default as changing values made no difference
+
 ## Bugfixes
 
     - On Checklist Creator it is now possible to change the name of the section correctly
