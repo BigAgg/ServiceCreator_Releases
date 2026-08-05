@@ -1,3 +1,26 @@
+# v1.2.4 (Hotfix)
+
+## Features
+
+### Added
+    
+    - Datepicker as variable type. Select a date from a calender similar to known pickers
+    - Unsaved checklist states are now shown on the "Checkliste" and "Checklisten Editor" window as a circle
+
+## Changes
+
+    - Unloading loaded checklist if changing reader and new reader has no avaialable checklist
+    - Additioanal info can now always be edited
+    - std::string in Variable struct got replaced to Text and TextBox
+        - Removed "multiline" from CheckInfo since it is now handled with Text and TextBox
+
+## Bugfixes
+
+    - Additional info is now updated when device is set to "erwartet" without selecting another reader first
+    - On auto_finish the timestamp is now recorded on CheckInfo's rather then keeping it empty
+        Fixes the printout to be correct
+    - Fixed a bug where it could not find the latest checklist in a already finished service
+
 # v1.2.3 (Hotfix)
 
 ## Features
