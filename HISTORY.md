@@ -1,3 +1,23 @@
+# v1.3.0 (Release)
+
+## Features
+
+### Added
+    
+    - External service window (Will be finished in the future)
+    - New ReaderInfo struct that gets populated on reader loading by trying to find the newest possible info file
+    - resolver functions for ReaderInfo
+    - New Window "ReaderInfo" to see the reader informations
+
+## Changes
+
+    - Resizing text elements now resizes to proper size so they are no longer too small to read whole text
+    - Updated checklist templates to new ReaderInfo auto fill
+
+## Bugfixes
+
+    - On Checklist Editor: no more freezing when cancel on load
+
 # v1.2.4 (Hotfix)
 
 ## Features
