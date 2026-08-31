@@ -1,3 +1,17 @@
+# v1.4.0 (Release)
+
+## Features
+
+### Added
+    
+    - Modern themes and swapping between them (Currently from modern to legacy needs restart)
+    - Programm version can now be printed out when calling it through console with --version
+
+## Changes
+
+    - Printout now looks more professional
+        Completely reworked
+
 # v1.3.0 (Release)
 
 ## Features
