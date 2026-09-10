@@ -1,3 +1,14 @@
+# v1.4.1 (Hotfix)
+
+## Features
+
+## Bugfixes
+
+    - Datepicker is now usable on modern themes
+    - Filewalker drag and dropping files now actually works
+    - No time > 60 min can be entered. it will count hours up automatically and adds access
+    - Times on printout are now correctly in hours instead of min
+
 # v1.4.0 (Release)
 
 ## Features
