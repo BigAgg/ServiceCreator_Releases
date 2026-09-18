@@ -1,3 +1,16 @@
+# v1.4.2 (Hotfix)
+
+## Features
+
+### Added
+
+    - Programm information (?) in Taskbar
+    - Popup window on finishing a service
+
+## Changes
+
+    - Other input size on "Bearbeitungszeit"
+
 # v1.4.1 (Hotfix)
 
 ## Features
