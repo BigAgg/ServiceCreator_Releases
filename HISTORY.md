@@ -1,3 +1,13 @@
+# v1.4.3 (Hotfix)
+
+## Changes
+
+    - Infobuffer now also holds Dekontaminationsbericht to be filled in
+
+## Bugfixes
+
+    - "Fertigmelden" popup is now closed when "Fertigmelden" is pressed.
+
 # v1.4.2 (Hotfix)
 
 ## Features
