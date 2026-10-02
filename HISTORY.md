@@ -1,3 +1,10 @@
+# v1.4.4 (Hotfix)
+
+## Bugfixes
+
+    - update_status_rinfo resolve function now checks if the status is the latest available instead of just setting it.
+        Prevents setting an older status after a newer one already exists
+
 # v1.4.3 (Hotfix)
 
 ## Changes
