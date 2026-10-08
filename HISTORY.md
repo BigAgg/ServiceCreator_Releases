@@ -1,3 +1,17 @@
+# v1.4.6
+
+## Bugfixes
+
+    - Syncing tables occasionaly broke the whole table, leaving it empty
+
+# v1.4.5
+
+## Features
+
+### Added
+
+    - Pink is now a selectable theme (Light theme)
+
 # v1.4.4 (Hotfix)
 
 ## Bugfixes
